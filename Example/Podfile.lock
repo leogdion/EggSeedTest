@@ -1,0 +1,16 @@
+PODS:
+  - EggSeedTest (0.0.1)
+
+DEPENDENCIES:
+  - EggSeedTest (from `../`)
+
+EXTERNAL SOURCES:
+  EggSeedTest:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EggSeedTest: 833268f35f4427cf63601793fe2ee3afbbca2fba
+
+PODFILE CHECKSUM: db821cdf0fbb90c3c17f48065380d7db9d8c61cc
+
+COCOAPODS: 1.8.4
